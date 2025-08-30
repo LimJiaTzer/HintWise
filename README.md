@@ -1,8 +1,19 @@
-# HintWise 🧠✨
+<p align="center">
+  <img src="https://github.com/LimJiaTzer/HintWise/raw/main/src/assets/logo_white_bg.png" alt="HintWise Logo" width="400"/>
+</p>
 
-**A Human-in-the-Loop Learning Assistant for the AI Era, built with Lynx.**
+<h1 align="center">HintWise 🧠✨</h1>
 
-_Submission for the TikTok TechJam Hackathon - Track 4: Rethinking UI/UX in the AI Era._
+<p align="center">
+  <strong>A Human-in-the-Loop Learning Assistant for the AI Era, built with Lynx.</strong>
+</p>
+<p align="center">
+  <em>Submission for the TikTok TechJam Hackathon - Track 4: Rethinking UI/UX in the AI Era.</em>
+</p>
+
+<p align="center">
+  <strong>Built By:</strong> Tan Jo Shin, Lim Jia Tzer, Wang Yu Jie, Ryan Neo Jia Hao, Zhou Ze Hao
+</p>
 
 ---
 
