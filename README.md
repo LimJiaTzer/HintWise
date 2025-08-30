@@ -10,7 +10,7 @@ _Submission for the TikTok TechJam Hackathon - Track 4: Rethinking UI/UX in the 
 
 **Watch our 3-minute project demo on YouTube:**
 
-**[https://www.youtube.com/watch?v=your-video-id](https://youtu.be/60ohXMy3hbg)**
+**[HintWise APP demonstration](https://youtu.be/60ohXMy3hbg)**
 
 ---
 
